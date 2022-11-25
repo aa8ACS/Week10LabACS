@@ -1,2 +1,3 @@
 # Week10LabACS
-Working with Github Actions
+Working with Github Actions.
+Updating the readme file.
